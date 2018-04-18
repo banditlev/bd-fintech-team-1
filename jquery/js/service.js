@@ -1,7 +1,7 @@
 var service = (function(){
 	"use strict";
 
-	var SERVER_URL = "http://34.243.86.224";
+	var SERVER_URL = "http://54.171.10.37";
 	var SERVER_PORT = "11111";
 
 	var ACCOUNT_SERVICE_URL = SERVER_URL + ":" + SERVER_PORT + "/accounts";

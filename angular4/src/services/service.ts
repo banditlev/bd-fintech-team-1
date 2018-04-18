@@ -5,7 +5,7 @@ import 'rxjs/add/operator/toPromise';
 
 @Injectable()
 export class Service {
-    private readonly SERVER_URL = "http://34.243.86.224";
+    private readonly SERVER_URL = "http://54.171.10.37";
     private readonly SERVER_PORT = "11111";
     
 
